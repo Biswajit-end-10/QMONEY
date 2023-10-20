@@ -1,0 +1,1 @@
+curl https://api.tiingo.com/tiingo/daily/AAPL/prices\?startDate\=2012-1-1\&endDate\=2016-1-1\&token\=122042f2f64e4f6f66e87d1dc6ebff819e751a44
