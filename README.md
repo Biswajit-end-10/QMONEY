@@ -28,7 +28,7 @@ Computed the annualized returns based on stock purchase date and holding period.
 Java, REST API, Jackson
 
 # Improve application availability and stability
-___________________________________________________________________________________________________________________
+
 
 # Scope of Work
 Added support for a backup stock quote service (Alpha Vantage) to improve service availability.
