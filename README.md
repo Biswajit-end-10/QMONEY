@@ -58,7 +58,7 @@ Interfaces, Exception Handling
 Improved application responsiveness by introducing multithreading.
 Wrote unit tests to measure performance improvements.
 
-# Skills used
+# Skills used:
 Multithreading
 
 
