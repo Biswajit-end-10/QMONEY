@@ -15,9 +15,7 @@ Refactored code to add support for multiple stock quote services.
 Improved application stability and performance.
 QMoney Architecture
 
-QMoney Architecture
 
-QMoney Portfolio Manager Interface
 
 QMoney Portfolio Manager Interface
 
